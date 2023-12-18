@@ -25,7 +25,7 @@ Also need to download and save the 2017 and 2022 stackoverflow developer survey 
 The motivation behind this project was to analyse the diversity of the respondents to the stack overflow surveys in 2017 and 2022. Through this hopefully we can get indications on the diversity of the developer workforce and the progress it is making. It focuses on gender and ethnicity and looks at their representation, the representation amongst the top earners and salary expectations. 
 
 ## Files 
-Jupyter notebook including the code used to run the analysis: ProjectCode.ipynb
+Jupyter notebook including the code used to run the analysis: ProjectCode (3).ipynb
 
 
 ## Usage
